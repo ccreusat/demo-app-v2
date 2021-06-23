@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>102075781252-bk80vbbk3b4k6fl6ofdrks7ccl3okh1o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.102075781252-bk80vbbk3b4k6fl6ofdrks7ccl3okh1o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWSo5Rm41xPgGw5GEMj96OXBaxhcXUqIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>102075781252</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lepetitballon.appstore</string>
+	<key>PROJECT_ID</key>
+	<string>le-petit-ballon-7e877</string>
+	<key>STORAGE_BUCKET</key>
+	<string>le-petit-ballon-7e877.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:102075781252:ios:387f43607399f4763f72d1</string>
+	<key>DATABASE_URL</key>
+	<string>https://le-petit-ballon-7e877.firebaseio.com</string>
+</dict>
+</plist>

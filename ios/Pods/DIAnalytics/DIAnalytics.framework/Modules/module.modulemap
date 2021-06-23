@@ -1,0 +1,6 @@
+framework module DIAnalytics {
+  umbrella header "DIAnalytics.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "react-native-check-notification-enable",
+  "version": "1.3.0",
+  "summary": "use to check is notification enable or disable only for android",
+  "description": "react-native-check-notification-enable",
+  "homepage": "https://github.com/jigaryadav/react-native-check-notification-enable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Maurus Cuelenaere": "mcuelenaere@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/jigaryadav/react-native-check-notification-enable.git",
+    "tag": "1.3.0"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
